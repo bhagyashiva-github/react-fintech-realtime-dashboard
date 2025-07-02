@@ -23,7 +23,7 @@ A modular and responsive dashboard featuring real-time data for cryptocurrency p
 - Sorting and searching functionality
 - Modular state management using Redux slices
 
-## 🧰 Tech Stack
+## Tech Stack
 - **Frontend**: React, TypeScript, TailwindCSS, Redux Toolkit
 - **APIs**: CoinGecko, ExchangeRate, finnhub (for stocks)
 
@@ -34,3 +34,4 @@ A modular and responsive dashboard featuring real-time data for cryptocurrency p
 
 # Author 
 Bhagya Sri Ramkumar
+
