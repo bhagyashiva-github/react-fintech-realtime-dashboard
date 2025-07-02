@@ -1,4 +1,4 @@
-# Project Overview
+![FinTech-CryptoTable](https://github.com/user-attachments/assets/74201d4e-2d70-4c72-bacf-fb6f1c99f047)# Project Overview
 
 A modular and responsive dashboard featuring real-time data for cryptocurrency prices, stock values, and currency conversion. Built with React, TypeScript, Redux, TailwindCSS, and secure WebSocket 
 
@@ -34,4 +34,10 @@ A modular and responsive dashboard featuring real-time data for cryptocurrency p
 
 # Author 
 Bhagya Sri Ramkumar
+
+![FinTech-StockTable](https://github.com/user-attachments/assets/148b2323-e631-49af-b0b4-498f066034b8)
+
+![FinTech-CurrencyConverter](https://github.com/user-attachments/assets/3a5aecc6-e84c-4a74-88f6-eebad28601c1)
+
+![FinTech-CryptoTable](https://github.com/user-attachments/assets/a5816087-e37a-4893-9d92-9bba3aeb3603)
 
