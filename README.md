@@ -1,4 +1,4 @@
-![FinTech-CryptoTable](https://github.com/user-attachments/assets/74201d4e-2d70-4c72-bacf-fb6f1c99f047)# Project Overview
+# Project Overview
 
 A modular and responsive dashboard featuring real-time data for cryptocurrency prices, stock values, and currency conversion. Built with React, TypeScript, Redux, TailwindCSS, and secure WebSocket 
 
